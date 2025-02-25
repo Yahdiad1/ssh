@@ -8,3 +8,4 @@ installer vps tunneling UDP costum
 wget github.com/FighterTunnel/ssh/raw/main/udp && bash udp
 ```
 
+ok
